@@ -1,5 +1,12 @@
 DANILO DOS ANJOS REIS
 
+Telefone: (71) 99344-3078/ 99619-0705
+Email: Daniloreis2196@gmail.com
+Endereço: Tv, Pituaçu, S/n, São Marcos,
+Salvador - BA
+https://www.linkedin.com/in/daniloreis2196/
+https://linktr.ee/Danilo.Reis
+
 PERFIL PESSOAL
 
 Eu sou um jovem que tenho fácil
