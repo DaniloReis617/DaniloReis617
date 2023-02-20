@@ -12,6 +12,7 @@ https: //linktr.ee/Danilo.Reis
 
 PERFIL PESSOAL
 
+
 Eu sou um jovem que tenho fácil
 aprendizagem, pensamento crítico e sou
 muito focado na negociação de conflitos.
