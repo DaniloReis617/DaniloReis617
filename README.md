@@ -48,7 +48,7 @@ HISTÓRICO PROFISSIONAL
 Assistente Técnico de Automação (Processos e Sistemas) - Time Now
 - Desenvolvo soluções de automação de processos críticos em setores fiscais, financeiros e outros, integrando ferramentas como SAP, VBA, Power Automate, Power BI, Access, Excel, Outlook e Gmail.
 - Crio e identifiquei novos programas de ETL para integração de dados.
-- Trabalheo com metodologias ágeis e Scrum para gerenciamento de projetos de automação de processos.
+- Trabalho com metodologias ágeis e Scrum para gerenciamento de projetos de automação de processos.
 - Desenvolvo soluções em Python, VBA e Power Apps para automação de processos e análise de dados.
 - Tenho experiência com tecnologias RPA, incluindo o desenvolvimento de soluções usando ferramentas como UiPath e Power Automate.
 - Realizo análises complexas e levantamento de requisitos técnicos para implementação de processos automatizados.
@@ -78,3 +78,6 @@ Faculdade Souza.
 FM2S Educação e Consultoria.
 - Certificado de Curso Avançada do Google Analytics - Google Analytics
 - Fundamentos de Gestão Ágil - LinkedIn
+- Especialista em Power BI - LinkedIn
+- Cientista de Dados - LinkedIn
+- Python Avançado - LinkedIn
