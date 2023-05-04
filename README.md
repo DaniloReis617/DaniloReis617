@@ -46,44 +46,16 @@ HABILIDADES E COMPETÊNCIAS
 HISTÓRICO PROFISSIONAL
 
 Assistente Técnico de Automação (Processos e Sistemas) - Time Now
-- Desenvolvendo automações de processos críticos nos setores fiscais, financeiros e de
-outros setores via através de automações conectando SAP,VBA, Power Automate, Power BI,
-Access, Excel, Outlook e Gmail;
-- Identificação das evoluções dos processos e correções de Bugs;
-- Criação ou identificação de novos programas de coleta e processamento de dados (ETL)
-- Convívio com metodologia ágil e Scrum;
-- Desenvolvimento em Python/VBA/Power Apps;
-- Experiência com as tecnologias RPA;
-- Experiência com análises, design e implementação de processos e levantamento de
-requisitos técnicos;
-- Conhecimento em programação, bancos de dados, linguagem SQL e desenvolvimento de
-apps;
-- Conhecimento a teoria e prática das tecnologias Machine Learning e Inteligência Artificial;
-- Conhecimento de metodologias ágeis;
-- Conhecimento amplo em processos de negócios;
-- Facilidade para resolver problemas;
-- Facilidade com análises complexas.
-- Conhecimento de metodologias práticas para implantação de BPM;
-- Mapeamento de oportunidades de automação através de entrevistas com as áreas
-funcionais.
-- Implementação de processos automatizados através da ferramenta como UiPath, Power
-Automate ou similar.
-- Controle das atividades relacionadas as automações quanto a avanços, atrasos, riscos,
-planejamentos e priorizações.
-Auxiliar Administrativo de Faturamento - BRF S.A.
-- Responsável por cuidar da Célula de Apoio Comercial com ênfase a Gestão de Frotas e
-Telecom implementando automações em todo Norte e Nordeste.
-- Aplicando metodologias ágeis nas formas de utilização das ferramentas Microsoft para a
-melhoria dos fluxos das atividades dentro do setor da controladoria da filial salvador através
-da automatização de processos de trabalho por meio de plataformas como Power Automate,
-Linguagem VBA (Macros) integrada ao SAP para realizar lançamentos no sistema como
-entrada, lançamento e criação de Notas Fiscais, e ferramentas do Office como Microsoft
-Forms e Liste para coleta de dados, Power BI e Excel para criação de Dashboards e
-relatórios, Power Apps para criar aplicativos, SharePoint para gerenciar as aplicações criadas
-e One Drive para armazenamento de dados.
-- Por meio dos relatórios e Dashboards gerados através das ferramentas Excel e Power BI são
-destacados indicadores (KPI's) das pastas geridas e pontos de melhoria visando aumentar a
-produtividade e o desenvolvimento das atividades no Norte e Nordeste.
+- Desenvolvo soluções de automação de processos críticos em setores fiscais, financeiros e outros, integrando ferramentas como SAP, VBA, Power Automate, Power BI, Access, Excel, Outlook e Gmail.
+- Crio e identifiquei novos programas de ETL para integração de dados.
+- Trabalheo com metodologias ágeis e Scrum para gerenciamento de projetos de automação de processos.
+- Desenvolvo soluções em Python, VBA e Power Apps para automação de processos e análise de dados.
+- Tenho experiência com tecnologias RPA, incluindo o desenvolvimento de soluções usando ferramentas como UiPath e Power Automate.
+- Realizo análises complexas e levantamento de requisitos técnicos para implementação de processos automatizados.
+- Possuo conhecimento em bancos de dados, linguagem SQL e desenvolvimento de apps para análise de dados.
+- Realizo mapeamento de oportunidades de automação através de entrevistas com áreas funcionais.
+- Implemento processos automatizados para análise de dados e geração de insights para tomada de decisão.
+- Gerencio atividades relacionadas às automações quanto a avanços, atrasos, riscos, planejamentos e priorizações.
 
 
 HISTÓRICO EDUCACIONAL
