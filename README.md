@@ -46,16 +46,14 @@ HABILIDADES E COMPETÊNCIAS
 HISTÓRICO PROFISSIONAL
 
 Assistente Técnico de Automação (Processos e Sistemas) - Time Now
-- Desenvolvo soluções de automação de processos críticos em setores fiscais, financeiros e outros, integrando ferramentas como SAP, VBA, Power Automate, Power BI, Access, Excel, Outlook e Gmail.
-- Crio e identifiquei novos programas de ETL para integração de dados.
-- Trabalho com metodologias ágeis e Scrum para gerenciamento de projetos de automação de processos.
-- Desenvolvo soluções em Python, VBA e Power Apps para automação de processos e análise de dados.
-- Tenho experiência com tecnologias RPA, incluindo o desenvolvimento de soluções usando ferramentas como UiPath e Power Automate.
-- Realizo análises complexas e levantamento de requisitos técnicos para implementação de processos automatizados.
-- Possuo conhecimento em bancos de dados, linguagem SQL e desenvolvimento de apps para análise de dados.
-- Realizo mapeamento de oportunidades de automação através de entrevistas com áreas funcionais.
-- Implemento processos automatizados para análise de dados e geração de insights para tomada de decisão.
-- Gerencio atividades relacionadas às automações quanto a avanços, atrasos, riscos, planejamentos e priorizações.
+- Automação de Processos: Desenvolvimento de soluções para setores fiscais e financeiros, integrando ferramentas como SAP, VBA e Power BI.
+- ETL: Experiência na criação e identificação de novos programas para a integração de dados.
+- Metodologias Ágeis e Scrum: Utilização dessas metodologias para gerenciar projetos de automação de processos.
+- Programação: Uso de Python, VBA e Power Apps para automação e análise de dados.
+- RPA: Conhecimento em tecnologias RPA e desenvolvimento de soluções usando ferramentas como UiPath e Power Automate.
+- Bancos de Dados e SQL: Experiência com bancos de dados, linguagem SQL e desenvolvimento de aplicativos para análise de dados.
+- Análise de Dados: Realização de análises complexas e implementação de processos automatizados para análise de dados.
+- Gerenciamento de Automações: Monitoramento de avanços, atrasos, riscos, planejamentos e priorizações em atividades relacionadas às automações.
 
 
 HISTÓRICO EDUCACIONAL
