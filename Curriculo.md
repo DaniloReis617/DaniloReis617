@@ -45,7 +45,7 @@ HABILIDADES E COMPETÊNCIAS
 
 HISTÓRICO PROFISSIONAL
 
-Assistente Técnico de Automação (Processos e Sistemas) - Time Now
+Desenvolvedor RPA (Analise de Dados/Processos/Sistemas) - Time Now
 - Automação de Processos: Desenvolvimento de soluções para setores fiscais e financeiros, integrando ferramentas como SAP, VBA e Power BI.
 - ETL: Experiência na criação e identificação de novos programas para a integração de dados.
 - Metodologias Ágeis e Scrum: Utilização dessas metodologias para gerenciar projetos de automação de processos.
@@ -58,14 +58,14 @@ Assistente Técnico de Automação (Processos e Sistemas) - Time Now
 
 HISTÓRICO EDUCACIONAL
 
-- MBA em Gestão Estratégica de Projetos - Unifacs - 04/2023
+- MBA em Gestão Estratégica de Projetos - Unifacs - 10/2024
 - Tecnólogo em Tecnologia da Informação - Centro Universitário Estácio de Sá -
 08/2024
 - Graduação em Administração (Cursando o 6º semestre, noturno) Universidade do
 Estado da Bahia - UNEB
 - Tecnólogo em Gestão Pública - Centro Universitário Estácio de Sá - Concluído
 
-HISTÓRICO EDUCACIONAL
+FORMAÇÃO COMPLEMENTAR
 
 - Fundamentos de Scrum - LinkedIn Learning.
 - Curso de Capacitação Profissional em Gestão de Equipes e Liderança -
